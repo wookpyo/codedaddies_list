@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c98d6a88-502f-4d40-8f72-762464cb65c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zhu8QXCXUzJ0H1LVkcrz7PREtq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="restructured.text.topic" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98d6a88-502f-4d40-8f72-762464cb65c3" name="Default Changelist" comment="" />
+      <created>1585303486861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585303486861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" width="1084" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585303779473">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/67.27.1853.1053@67.27.1853.1053" timestamp="1585303779473" />
+    <state x="731" y="383" width="514" height="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585303728301">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="731" y="383" width="514" height="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.1853.1053/67.27.1853.1053@67.27.1853.1053" timestamp="1585303728301" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1585303692085">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/67.27.1853.1053@67.27.1853.1053" timestamp="1585303692085" />
+    <state x="478" y="108" width="1020" height="888" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1585303675316">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="478" y="108" width="1020" height="888" key="com.intellij.javaee.MapExternalResourceDialog/67.27.1853.1053/67.27.1853.1053@67.27.1853.1053" timestamp="1585303675316" />
+  </component>
+</project>
